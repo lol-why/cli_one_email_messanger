@@ -1,0 +1,3 @@
+email Your_mail
+password token for imap
+name Your_name
